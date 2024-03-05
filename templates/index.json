@@ -47,15 +47,6 @@
         "show_text_below": false
       }
     },
-    "custom_liquid_KarXdY": {
-      "type": "custom-liquid",
-      "settings": {
-        "custom_liquid": "<div class=\"bg-hero-pattern container\">\n  <div class=\"section text-center\">\n    <div class=\"section-inner\">\n      <h2 class=\"heading\">\n        Welcome to \n        <span class=\"link\">GAMERS NEEDS<\/span>\n      <\/h2>\n      <p class=\"sub-heading\">\n        The home of gaming content for gamers by gamers!\n      <\/p>\n    <\/div>\n    <div class=\"section-inner\">\n      <p class=\"info\">Scroll Down for more info<\/p>\n      <div class=\"icon\">\n        <svg class=\"icon\" width=\"32\" height=\"32\" viewBox=\"0 0 24 24\">\n          <path fill=\"currentColor\" d=\"M11 4h2v12l5.5-5.5l1.42 1.42L12 19.84l-7.92-7.92L5.5 10.5L11 16V4Z\" \/>\n        <\/svg>\n      <\/div>\n    <\/div>\n  <\/div>\n  <div class=\"background\">\n    <div class=\"overlay\"><\/div>\n  <\/div>\n<\/div>",
-        "color_scheme": "",
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "rich_text": {
       "type": "rich-text",
       "blocks": {
@@ -100,7 +91,7 @@
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
-        "enable_desktop_slider": false,
+        "enable_desktop_slider": true,
         "color_scheme": "scheme-1",
         "image_ratio": "adapt",
         "image_shape": "default",
@@ -109,61 +100,8 @@
         "show_rating": false,
         "enable_quick_add": false,
         "columns_mobile": "2",
-        "swipe_on_mobile": false,
+        "swipe_on_mobile": true,
         "padding_top": 28,
-        "padding_bottom": 36
-      }
-    },
-    "collage": {
-      "type": "collage",
-      "blocks": {
-        "collection-0": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        },
-        "product": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "collection-1": {
-          "type": "collection",
-          "settings": {
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "collection-0",
-        "product",
-        "collection-1"
-      ],
-      "settings": {
-        "heading": "Multimedia collage",
-        "heading_size": "h2",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "video": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": false,
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "scheme-1",
-        "padding_top": 36,
         "padding_bottom": 36
       }
     },
@@ -219,15 +157,23 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "contact_form_VhrYr9": {
+      "type": "contact-form",
+      "settings": {
+        "heading": "Contact Us",
+        "heading_size": "h1",
+        "color_scheme": "scheme-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "image_banner",
-    "custom_liquid_KarXdY",
     "rich_text",
     "featured_collection",
-    "collage",
-    "video",
-    "multicolumn"
+    "multicolumn",
+    "contact_form_VhrYr9"
   ]
 }
