@@ -5,17 +5,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "brand_information_Tq6E6G": {
+          "type": "brand_information",
+          "settings": {
+            "show_social": true
+          }
+        },
         "footer-0": {
           "type": "link_list",
           "settings": {
             "heading": "Quick links",
-            "menu": "footer"
-          }
-        },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
             "menu": "footer"
           }
         },
@@ -28,21 +27,21 @@
         }
       },
       "block_order": [
+        "brand_information_Tq6E6G",
         "footer-0",
-        "footer-1",
         "footer-2"
       ],
       "settings": {
-        "color_scheme": "scheme-1",
+        "color_scheme": "scheme-4",
         "newsletter_enable": true,
         "newsletter_heading": "Subscribe to our emails",
         "enable_follow_on_shop": true,
-        "show_social": true,
+        "show_social": false,
         "enable_country_selector": false,
         "enable_language_selector": true,
-        "payment_enable": true,
+        "payment_enable": false,
         "show_policy": true,
-        "margin_top": 48,
+        "margin_top": 0,
         "padding_top": 36,
         "padding_bottom": 36
       }
