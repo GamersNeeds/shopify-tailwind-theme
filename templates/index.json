@@ -147,7 +147,7 @@
         "text_YwzHTy": {
           "type": "text",
           "settings": {
-            "text": "<p>Based in Gympie, QLD, we're a small but dynamic tech company dedicated to innovation and expertise. From custom PC solutions catering to gamers, content creators, and businesses to 3D printing services and smart home installations, we cover all aspects of technology. Our commitment is to exceed your expectations, whether you're seeking to enhance your gaming experience, realize creative projects, or ensure the smooth operation of your devices.<\/p>",
+            "text": "<p>Based in Gympie, QLD, we're a small but dynamic tech company dedicated to innovation and expertise. From custom PC solutions catering to gamers, content creators, and businesses to 3D printing services and smart home installations, we cover all aspects of technology. <\/p><p>Our commitment is to exceed your expectations, whether you're seeking to enhance your gaming experience, realize creative projects, or ensure the smooth operation of your devices.<\/p>",
             "text_style": "body"
           }
         }
