@@ -111,8 +111,11 @@
         "column2",
         "column3"
       ],
+      "custom_css": [
+        "h2 {text-align: center; width: 100%;}"
+      ],
       "settings": {
-        "title": "",
+        "title": "Our Services",
         "heading_size": "h1",
         "image_width": "third",
         "image_ratio": "adapt",
