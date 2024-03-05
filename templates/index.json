@@ -81,6 +81,7 @@
         "column1": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/computer-gaming.svg",
             "title": "Gaming & Computing",
             "text": "<p>Dive into the world of gaming and computer builds with our expert knowledge. Elevate your setup to match your passion.<\/p>",
             "link_label": "",
@@ -90,6 +91,7 @@
         "column2": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/3d-printing.svg",
             "title": "3D Printing",
             "text": "<p>Level up your collection with our 3D printed gaming miniatures and accessories. Get ready to bring your game nights to life!<\/p>",
             "link_label": "",
@@ -99,6 +101,7 @@
         "column3": {
           "type": "column",
           "settings": {
+            "image": "shopify:\/\/shop_images\/smart-home.svg",
             "title": "Smart Home",
             "text": "<p>Optimize your gaming setup with our smart home solutions for improved comfort and functionality. Experience the benefits firsthand.<\/p>",
             "link_label": "",
