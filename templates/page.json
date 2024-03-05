@@ -6,9 +6,68 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "multirow_RpNhDn": {
+      "type": "multirow",
+      "blocks": {
+        "row_rUixzB": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/computer-gaming.svg",
+            "caption": "",
+            "heading": "Gaming & Computing",
+            "text": "<p>Dive into the world of gaming and computer builds with our expert knowledge. Elevate your setup to match your passion.<\/p>",
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "row_RPK94V": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3d-printing.svg",
+            "caption": "",
+            "heading": "3D Printing",
+            "text": "<p>Level up your collection with our 3D printed gaming miniatures and accessories. Get ready to bring your game nights to life!<\/p>",
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        },
+        "row_L6Y6zm": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smart-home.svg",
+            "caption": "",
+            "heading": "Smart Home",
+            "text": "<p>Optimize your gaming setup with our smart home solutions for improved comfort and functionality. Experience the benefits firsthand.<\/p>",
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "row_rUixzB",
+        "row_RPK94V",
+        "row_L6Y6zm"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "multirow_RpNhDn"
   ]
 }
