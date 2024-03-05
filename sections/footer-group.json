@@ -24,12 +24,20 @@
             "heading": "Our mission",
             "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
           }
+        },
+        "text_tPGJRj": {
+          "type": "text",
+          "settings": {
+            "heading": "",
+            "subtext": ""
+          }
         }
       },
       "block_order": [
         "brand_information_Tq6E6G",
         "footer-0",
-        "footer-2"
+        "footer-2",
+        "text_tPGJRj"
       ],
       "settings": {
         "color_scheme": "scheme-4",
